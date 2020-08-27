@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">선택</string>
+    <string name="textView25">선거일 카운트 다운</string>
+    <string name="textView26">일</string>
+    <string name="textView27">"시 "</string>
+    <string name="textView28">분</string>
+    <string name="textView29">둘째</string>
+    <string name="button3">다음</string>
+</resources>

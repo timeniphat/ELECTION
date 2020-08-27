@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">เลือกตั้ง</string>
+    <string name="textView25">นับถอยหลังวันเลือกตั้ง</string>
+    <string name="textView26">วัน</string>
+    <string name="textView27">ชั่วโมง</string>
+    <string name="textView28">นาที</string>
+    <string name="textView29">วินาที</string>
+    <string name="button3">ถัดไป</string>
+</resources>
