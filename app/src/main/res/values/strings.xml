@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name" >ELECTION</string>
+    <string name="app_name">ELECTION</string>
     <string name="textView25">Count Down To Election Day</string>
-    <string name="textView26" >Days</string>
-    <string name="textView27" >Hours</string>
-    <string name="textView28" >Minutes</string>
-    <string name="textView29" >Seconds</string>
+    <string name="textView26">Days</string>
+    <string name="textView27">Hours</string>
+    <string name="textView28">Minutes</string>
+    <string name="textView29">Seconds</string>
     <string name="button3">Next</string>
 </resources>
